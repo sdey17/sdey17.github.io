@@ -9,23 +9,19 @@ redirect_from:
 ---
 
 <p align="center">
-  <strong>Computational Research Scientist </strong> at <strong><a href="https://www.bhsai.org/">BHSAI, Inc</a></strong>
+  <strong>Computational Research Scientist </strong> at <strong><a href="https://www.bhsai.org/">DoD BHSAI</a></strong>
 </p>
 
-<p align="center">
-  Ex-Research Fellow at <a href="https://www.neurox1.com//">NeuroX1, Inc</a>, IACS Kolkata, University of Groningen, IIT Bombay, BARC-Mumbai
-
-<p align="center">
-  Researcher with a <strong>Ph.D.</strong> from <strong>University of Illinois</strong>
-</p>
-
-Souvik is an innovative AI computational chemist with over 9 years of experience. His research focus is at the nexus of AI, Physics and Chemistry, he seamlessly integrates AI into advanced quantum and classical molecular modeling. He is proficient in machine learning, programming, and data science, and is well-versed with Linux servers, and GPUs. Souvik has a strong background in developing ML-based computational workflows for solving molecular properties and protein-drug modeling. He has consistently displayed entrepreneurial and independent research skills throughout his career. He has a proven track record of publishing as a first author in peer-reviewed journals, showcasing his ability to generate new ideas, develop prototypes, and document his findings. Passionate about learning and innovation, Souvik is committed to pushing “AI for Science” forward.<br/>
+Souvik is a Computational Chemist with over 9 years of experience applying AI, cheminformatics, and molecular modeling to study protein dynamics, drug discovery, and toxicity prediction. Specialized in transformers, VAEs, and multi-task learning applied to chemical/omics data. Proven success in interdisciplinary collaborations and tool development across academia and government, with a strong publication record in generative modeling, structural biophysics, and protein-ligand interactions. Passionate
+about fostering innovation and driving translational research through deep learning, generative AI, and biophysics<br/>
 <br/>
 When Souvik is not solving problems in computational chemistry, he is busy in travelling around the world. <br/>
 <br/>
 
 <p align="center">
   <strong>Highlighted Research</strong><br/>
+  href="https://www.nature.com/articles/s41598-025-00972-w">Dey, S., Wallqvist, A. & AbdulHameed, M.D.M. Developing muscarinic receptor M1 classification models utilizing transfer learning and generative AI techniques. Sci Rep 15, 16486 (2025). https://doi.org/10.1038/s41598-025-00972-w
+<
 </p>
 
 
