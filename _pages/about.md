@@ -22,7 +22,7 @@ When Souvik is not solving problems in computational chemistry, he is busy in tr
   <strong>Highlighted Research</strong><br/></p>
 
 <p>
-  Dey, S., Wallqvist, A. & AbdulHameed, M.D.M. Developing muscarinic receptor M1 classification models utilizing transfer learning and generative AI techniques. Sci Rep 15, 16486 (2025). <a href="https://www.nature.com/articles/s41598-025-00972-w">
+  Dey, S., Wallqvist, A. & AbdulHameed, M.D.M. Developing muscarinic receptor M1 classification models utilizing transfer learning and generative AI techniques. Sci Rep 15, 16486 (2025). <a href="https://www.nature.com/articles/s41598-025-00972-w"> [Link]</a>
 </p>
 
 
