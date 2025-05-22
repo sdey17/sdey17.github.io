@@ -12,10 +12,9 @@ redirect_from:
   <strong>Computational Research Scientist </strong> at <strong><a href="https://www.bhsai.org/">DoD BHSAI</a></strong>
 </p>
 
-Souvik is a Computational Chemist with over 9 years of experience applying AI, cheminformatics, and molecular modeling to study protein dynamics, drug discovery, and toxicity prediction. Specialized in transformers, VAEs, and multi-task learning applied to chemical/omics data. Proven success in interdisciplinary collaborations and tool development across academia and government, with a strong publication record in generative modeling, structural biophysics, and protein-ligand interactions. Passionate
-about fostering innovation and driving translational research through deep learning, generative AI, and biophysics<br/>
+Souvik is a Research Scientist at the U.S. Department of Defense Biotechnology HPC Software Applications Institute in Frederick, MD. He works on building computational models to predict protein-small molecule interactions and small molecule toxicity predictions. He also spends a lot of his time in cleaning/processing public datasets! He received his Ph.D. in Chemistry from University of Illinois Chicago in 2023 where he studied the sequence-dynamics-function paradigm of intrinsically disordered proteins using molecular dynamics simulations and machine learning. Prior to that, he received his B.S. + M.S. in Chemistry from Visva Bharati University, India and worked at several research institutions.
 <br/>
-When Souvik is not solving problems in computational chemistry, he is busy in travelling around the world. <br/>
+When Souvik is not benchmarking generative AI models for toxicity predictions, he is busy in exploring the national parks!. <br/>
 <br/>
 
 <p align="center">
