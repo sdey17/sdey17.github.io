@@ -12,9 +12,9 @@ redirect_from:
   <strong>Computational Research Scientist </strong> at <strong><a href="https://www.bhsai.org/">DoD BHSAI</a></strong>
 </p>
 
-Souvik is a Research Scientist at the U.S. Department of Defense Biotechnology HPC Software Applications Institute in Frederick, MD. He works on building computational models to predict protein-small molecule interactions and small molecule toxicity predictions. He also spends a lot of his time in cleaning/processing public datasets! He received his Ph.D. in Chemistry from University of Illinois Chicago in 2023 where he studied the sequence-dynamics-function paradigm of intrinsically disordered proteins using molecular dynamics simulations and machine learning. Prior to that, he received his B.S. + M.S. in Chemistry from Visva Bharati University, India and worked at several research institutions.
+Souvik is a Research Scientist at the U.S. Department of Defense Biotechnology HPC Software Applications Institute in Frederick, MD. He works on building computational models to predict protein-small molecule interactions and small molecule toxicity predictions. He also spends a lot of his time in cleaning/processing public datasets! He received his Ph.D. in Chemistry from University of Illinois Chicago in 2023 where he studied the sequence-dynamics-function paradigm of intrinsically disordered proteins using molecular dynamics simulations and machine learning. Prior to that, he received his B.S. + M.S. in Chemistry from Visva Bharati University, India and worked at several research institutions.<br/>
 <br/>
-When Souvik is not benchmarking generative AI models for toxicity predictions, he is busy in exploring the national parks!. <br/>
+When Souvik is not benchmarking generative AI models for toxicity predictions, he is busy in exploring the national parks! <br/>
 <br/>
 
 <p align="center">
